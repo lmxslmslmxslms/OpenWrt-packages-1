@@ -1,4 +1,4 @@
-# openwrt-packages [![liuran001](https://img.shields.io/badge/Fork-liuran001-blue.svg?style=flat&logo=appveyor)](https://github.com/hjp521) 
+# openwrt-packages [![hjp521](https://img.shields.io/badge/Fork-hjp521-blue.svg?style=flat&logo=appveyor)](https://github.com/hjp521) 
 国内常用OpenWrt软件包源码合集，每天自动更新
 
 
