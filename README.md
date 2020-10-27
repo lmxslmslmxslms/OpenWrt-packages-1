@@ -16,7 +16,7 @@
 ```
 2. 或者添加下面代码到feeds.conf.default文件
 ```bash
- src-git OpenWrt-packages https://github.com/hjp521/OpenWrt-packages
+ src-git OpenWrt-hjp521 https://github.com/hjp521/OpenWrt-packages
 ```
 3. 先cd进package目录，然后执行
 ```bash
