@@ -12,15 +12,15 @@
 `还是建议按需取用，不然碰到依赖问题不太好解决`
 1. 先cd进package目录，然后执行
 ```bash
- git clone https://github.com/hjp521/OpenWrt-hjp
+ git clone https://github.com/hjp521/OpenWrt-packages
 ```
 2. 或者添加下面代码到feeds.conf.default文件
 ```bash
- src-git OpenWrt-packages https://github.com/hjp521/OpenWrt-hjp
+ src-git OpenWrt-packages https://github.com/hjp521/OpenWrt-packages
 ```
 3. 先cd进package目录，然后执行
 ```bash
- svn co https://github.com/hjp521/OpenWrt-hjp/branches/packages
+ svn co https://github.com/hjp521/OpenWrt-packages/branches/packages
 ```
 
 ## 不要为了下载而Fork这个项目，而且你Fork了不修改是不能自动拉取源码并推送的
